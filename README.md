@@ -1,4 +1,6 @@
 # sophia
+
+[![Join the chat at https://gitter.im/fedexyz/sophia](https://badges.gitter.im/fedexyz/sophia.svg)](https://gitter.im/fedexyz/sophia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 (Meta) WebShop for the masses.
 
 [![Build Status](https://travis-ci.org/fedexyz/sophia.svg?branch=master)](https://travis-ci.org/fedexyz/sophia)
